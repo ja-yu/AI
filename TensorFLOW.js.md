@@ -41,3 +41,4 @@ document.write("型態: " + x.dtype + "<br/>");
 </body>
 </html>
 ```
+![Ch14_4_1.html](./pic/ch14-1.PNG)
